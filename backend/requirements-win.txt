@@ -67,7 +67,7 @@ mako==1.4.3
     # via alembic
 markupsafe==3.0.3
     # via mako
-narwhals==2.22.1
+narwhals==2.29.0
     # via scikit-learn
 numpy==2.5.1
     # via
