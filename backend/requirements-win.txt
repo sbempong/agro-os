@@ -81,7 +81,7 @@ platformdirs==4.11.3
     # via wandb
 pluggy==1.6.0
     # via pytest
-protobuf==7.35.1
+protobuf==7.36.2
     # via wandb
 psycopg2-binary==2.9.12
     # via -r requirements.in
