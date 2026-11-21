@@ -163,5 +163,5 @@ wandb==0.28.1
     # via -r requirements.in
 watchfiles==1.2.0
     # via uvicorn
-websockets==16.0
+websockets==17.4
     # via uvicorn
